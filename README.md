@@ -126,3 +126,76 @@ El mapeo de relieve es una técnica en gráficos por computadora para hacer que 
 John Turner Whitted presentó el ray tracing en su trabajo: "An improved illumination model for shaded display". Su algoritmo demostró ser una solución práctica para definir una iluminación global en gráficos por computadora.
 
 ## Década de los 80
+
+### 1982: Tron
+<img width="400" height="288" alt="image" src="https://github.com/user-attachments/assets/802c19e8-52e6-4c22-8a8a-6c6ccacad3f9" />
+
+La película Tron, de Steven Lisberger, fue la primera película en utilizar técnicas de CGI para crear una secuencia completa de 15 minutos abriendo la puerta a la digitalización del cine.
+
+### 1984: Polhemus
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/632471be-8157-44ff-91f3-dcbbc07d4ac1" />
+
+Wavefront Tech crea Polhemus el primer software de diseñado 3D.
+
+### 1986: Primer cortometraje de Pixar
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b3624051-4c62-4f57-9b7b-09e52b325659" />
+
+Uno de los antecedentes de Toy Story, Luxo Jr. fue un cortometraje de apenas 2 minutos que se ha vuelto de culto en la cultura de la animación.
+
+### 1987: VGA
+<img width="400" height="313" alt="image" src="https://github.com/user-attachments/assets/3c902f98-384e-4d79-b5aa-4b5a209bbdee" />
+
+El VGA (Video Graphics Array) es un estándar para la salida de video de las computadoras. Fue introducido por IBM.
+
+### 1989: VESA
+<img width="400" height="194" alt="image" src="https://github.com/user-attachments/assets/a40c4c45-88be-4130-ae1f-9735304034b5" />
+
+La VESA (Video Electronics Standards Association) es una asociación internacional de fabricantes de electrónica. Fue fundada inicialmente para desarrollar pantallas de video con una resolución común de 800x600 pixeles.
+
+## Década de los 90
+
+### 1990: Renderman
+<img width="400" height="203" alt="image" src="https://github.com/user-attachments/assets/0f747f3a-48ef-4e10-9770-845a26fa7fe8" />
+
+Renderman es un software desarrollado por Pixar para renderizar complejas imagenes tridimensionales en granjas de renderizado con muchos equipos.
+
+### 1991: La Bella y la Bestia
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d0b3160c-a3d3-4256-842f-8f55b526df71" />
+
+Película de Pixar donde se utilizó ampliamente los gráficos generados por computadora. Se uso Renderman para renderizar los gráficos tridimensionales.
+
+### 1992: OpenGL
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7e560875-0cfb-47bc-9de5-3a8ed6e41ad1" />
+
+Fue originalmente desarrollada por Silicon Graphics Incorporated (SGI). Se volvió un estándar que define una API para crear aplicaciones que generen gráficos 2D y 3D.
+
+### 1993: Mosaic
+<img width="400" height="346" alt="image" src="https://github.com/user-attachments/assets/9c8216bc-f227-4ac9-9517-c9b5ae0c8213" />
+
+Marc Andressen en la Universidad de Illinois crea el primer navegador web gráfico: Mosaic. Permitía visualizar páginas web en sistemas operativos Mac, Windows y demás.
+
+### 1993: Jurassic Park
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/21ccc698-cc6c-436f-90e2-d436afc7440e" />
+
+Fue la primera película donde los efectos generados por gráficos de computadora compartían pantalla al mismo tiempo con actores reales. En este caso, creando el efecto de que los dinosaurios eran reales.
+
+### 1995: Toy Story
+<img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/eee7330b-248c-446c-88fb-9312966fdb79" />
+
+Fue la primera película animada 3D generada completamente por computadora.
+
+### 1999: GeForce 256
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f1cf013c-b145-4308-b61d-8603c4d4f682" />
+
+Nvidia lanza su primera familia de productos NVIDIA GeForce.
+
+## 2000
+
+### 2001: Final Fantasy
+<img width="400" height="196" alt="image" src="https://github.com/user-attachments/assets/6382fea8-fbb8-46a8-a2d2-66fdae3ce578" />
+
+La película animada Final Fantasy: The Spirits Within fue el primer intento serio en crear humanos animados de manera fotorrealista.
+
+### 2003: Id Tech 4
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/2ba4daed-b775-4a08-9387-875ce5094605" />
+
