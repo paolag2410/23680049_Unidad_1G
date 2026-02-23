@@ -266,7 +266,7 @@ Segun lo antes mencionado . . .
 
 Geometría Fractal es geometría que no distingue entre conjunto matemático y objeto natural. Este nuevo paradigma engulle paradigmas anteriores proyectando un modelo que inagura una nueva zona o región de lo real.
 
-#1.4. Modelos del color: RBG, CMY, HSV y HSL.
+# 1.4. Modelos del color: RBG, CMY, HSV y HSL.
 
 ## ¿Qué es un modelo de color?
 Un modelo de color establece un conjunto de colores primarios a partir de los que, mediante mezclas, se pueden obtener otros colores hasta cubrir todo el espectro visible, además del propio blanco, negro y grises, y aún más. Por ejemplo, hay colores, como el marrón o el magenta, que no están presentes en el espectro visible, y es nuestro cerebro el que lo interpreta a partir de la combinación de ondas con diferentes longitudes.
