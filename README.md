@@ -1,19 +1,6 @@
 # Unidad 1. Introducción a la graficación por computadora.  
 
-La graficación por computadora (GC) es un campo multidisciplinario bastante amplio, donde tanto computólogos, matemáticos, físicos, ingenieros, artistas y otros practicantes comparten un mismo objetivo "mostrar un mundo a través de una ventana", nos podemos referir como mundo a un modelo digital, una simulación, o bien, cualquier representación visual que se busque mostrar, y como ventana a cualquier medio para mostrar imágenes, como un proyector, la pantalla de un monitor, tablet, entre otros. Por lo que nos podemos dar una idea de las multiples aplicaciones que se pueden obtener en este campo sobre los diferentes ámbitos, veamos algunas de estas aplicaciones:
-
-1. Industria del entretenimiento: Creación de películas o caricaturas sintéticas, publicidad, efectos visuales y videojuegos.
-2. Ingeniería Mecánica: Diseño de prototipos virtuales de partes mecánicas para su construcción, utilizando sistemas CAD/CAM (Computer-Aided Design/ Computer-Aided Manufacturing).
-3. Arquitectura: Uso del software CAD para la creación de planos de alguna estructura arquitectónica, visualizaciones de espacios antes y después de una construcción planeada.
-4. Diseño: Diseño y creación de productos, haciendo uso de sistemas CAD/CAM, promoviendo la creatividad del diseñador al permitirle experimentar con varias formas antes de producir la idea final.
-5. Patrimonio cultural: Reconstrucciones virtuales de templos, monumentos, piezas antiguas, o bien, reconstrucciones hipotéticas de escenas.
-6. Medicina: Simulaciones virtuales de cirugías para entrenamiento y visualización de datos dados por algún instrumento de diagnóstico.
-
-Asimismo, se han ido desarrollando un gran número de áreas de especialización, las cuales han ido evolucionando de acuerdo a las necesidades de los usuarios y al avance tecnológico en el hardware y software. Las principales suelen ser las siguientes:
-
-7. Renderización: Es el proceso para generar una imagen final dada una entrada ordenada de datos, se suele clasificar dependiendo del algoritmo que se use, generalmente se toma como referencia el tiempo que a éste le tome en producir una imagen sintética (Real time rendering, Offline rendering), o bien, el tipo de técnica de renderizado que utilice (Photorealistic rendering, non-photorealistic rendering o information visualization).
-8. Modelado: Es la especificación matemática del mundo a representar, es decir, se describen los objetos y sus propiedades de un modo que éstos puedan ser almacenados en la computadora, por ejemplo, una manzana puede ser descrita como un conjunto de puntos 3D, los cuales forman caras ordenadas, con un modelo de iluminación especifico para describir cómo interactúa la luz con la manzana.
-9. nimación: Es la creación de una secuencia de imágenes con una computadora, que tiene como finalidad producir la ilusión de movimiento. Si bien, hace uso de las dos áreas anteriores, no se encarga del estudio de éstas, pues su objetivo es añadir alguna animación sobre un rango de tiempo específico a los modelos, con la cual modifica algún aspecto de éstos, como su color, posición, apariencia, entre otros.
+La graficación por computadora (GC) es un campo multidisciplinario bastante amplio, donde tanto computólogos, matemáticos, físicos, ingenieros, artistas y otros practicantes comparten un mismo objetivo "mostrar un mundo a través de una ventana", nos podemos referir como mundo a un modelo digital, una simulación, o bien, cualquier representación visual que se busque mostrar, y como ventana a cualquier medio para mostrar imágenes, como un proyector, la pantalla de un monitor, tablet, entre otros.
 
    
 # 1.1. Historia y evolución de la graficación por computadora.
@@ -199,3 +186,138 @@ La película animada Final Fantasy: The Spirits Within fue el primer intento ser
 ### 2003: Id Tech 4
 <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/2ba4daed-b775-4a08-9387-875ce5094605" />
 
+Motor gráfico para el videojuego Doom 3 desarrollado por id Software. Para su época, presentó gráficos muy avanzados que requerían mucha potencia para ser corridos.
+
+### 2015: Interactive Global Illumination
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/af1d6408-f247-400a-8aa3-3a4594ddf22d" />
+
+Las técnicas de iluminación global continuaron mejorando.
+
+### 2018: Real-time Ray Tracing
+<img width="400" height="219" alt="image" src="https://github.com/user-attachments/assets/df4a21a3-0a5d-4b3c-b43a-4dd821de01d5" />
+
+Se volvió tendencia utilizar Ray Tracing en tiempo real y era normal verlo en los videojuegos de la época para mejorar la experiencia del jugador.
+
+## Actualidad
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/c746e4fc-d497-49e6-b7ab-da33ca6c3d44" />
+
+En la actualidad los gráficos generados por computadora forman parte fundamental del entretenimiento. Las diferentes técnicas de graficación por computadora y las capacidades del hardware han evolucionado tanto que hoy en día es posible sumergir al usuario en un mundo de fantasía totalmente digital.
+
+Incluso nuestros smartphones cuentan con una tarjeta de video potente a pesar de su reducido tamaño.
+En los diferentes ámbitos donde se utiliza la graficación se han creado una gran variedad de herramientas que facilitan y automatizan varias tareas relacionadas a la creación de gráficos, por ejemplo: los motores de videojuegos.
+
+# 1.2. Áreas de aplicación.
+
+La graficación por computadora se utiliza en múltiples áreas:
+
+1. Industria del entretenimiento: Creación de películas o caricaturas sintéticas, publicidad, efectos visuales y videojuegos.
+2. Ingeniería Mecánica: Diseño de prototipos virtuales de partes mecánicas para su construcción, utilizando sistemas CAD/CAM (Computer-Aided Design/ Computer-Aided Manufacturing).
+3. Arquitectura: Uso del software CAD para la creación de planos de alguna estructura arquitectónica, visualizaciones de espacios antes y después de una construcción planeada.
+4. Diseño: Diseño y creación de productos, haciendo uso de sistemas CAD/CAM, promoviendo la creatividad del diseñador al permitirle experimentar con varias formas antes de producir la idea final.
+5. Patrimonio cultural: Reconstrucciones virtuales de templos, monumentos, piezas antiguas, o bien, reconstrucciones hipotéticas de escenas.
+6. Medicina: Simulaciones virtuales de cirugías para entrenamiento y visualización de datos dados por algún instrumento de diagnóstico.
+
+Asimismo, se han ido desarrollando un gran número de áreas de especialización, las cuales han ido evolucionando de acuerdo a las necesidades de los usuarios y al avance tecnológico en el hardware y software. Las principales suelen ser las siguientes:
+
+7. Renderización: Es el proceso para generar una imagen final dada una entrada ordenada de datos, se suele clasificar dependiendo del algoritmo que se use, generalmente se toma como referencia el tiempo que a éste le tome en producir una imagen sintética (Real time rendering, Offline rendering), o bien, el tipo de técnica de renderizado que utilice (Photorealistic rendering, non-photorealistic rendering o information visualization).
+8. Modelado: Es la especificación matemática del mundo a representar, es decir, se describen los objetos y sus propiedades de un modo que éstos puedan ser almacenados en la computadora, por ejemplo, una manzana puede ser descrita como un conjunto de puntos 3D, los cuales forman caras ordenadas, con un modelo de iluminación especifico para describir cómo interactúa la luz con la manzana.
+9. Animación: Es la creación de una secuencia de imágenes con una computadora, que tiene como finalidad producir la ilusión de movimiento. Si bien, hace uso de las dos áreas anteriores, no se encarga del estudio de éstas, pues su objetivo es añadir alguna animación sobre un rango de tiempo específico a los modelos, con la cual modifica algún aspecto de éstos, como su color, posición, apariencia, entre otros.
+
+Y entre algunas otras áreas de relevancia se encuentran:
+
+10. Simulación: Es el proceso en el que un modelo matemático es ejecutado y representado con una computadora, la cual es usada para simular un comportamiento y su repercusión en el mundo real, o bien, dentro de un sistema físico impuesto, permitiendo revisar la fiabilidad del modelo, por lo cual es útil para modelar sistemas en física, astrofísica, climatología, química, biología, economía, ingeniería, etc. Por ejemplo, el movimiento de las partículas del agua en una ola, o bien, la simulación en tiempo real de un escenario de entrenamiento, como volar un avión. Las simulaciones garantizan un menor costo y mayor seguridad para los usuarios.
+11. Fotografía Computacional: Es el uso de las técnicas de graficación por computadora, visión artificial y proceso digital de imágenes empleadas para mejorar el potencial de la fotografía digital y la calidad de la captura digital de imágenes, desarrollando otras formas de capturar objetos, escenas y ambientes. Permitiéndonos producir equipos fotográficos de bajo costo capaces de identificar caras, hacer reenfoques, panorámicas, e incluso hacer que el resultado luzca similar o mejor al de un equipo caro.
+12. Escaneo en 3D: Es el proceso de colectar información de objetos del mundo real para crear un modelo 3D, desarrollando muchos dispositivos y algoritmos para obtener la geometría y apariencia del objeto real, dichos modelos son utilizados para crear visualizaciones.
+13. Proceso Digital de Imágenes: Es la aplicación de técnicas y algoritmos para la manipulación de imágenes 2D, para obtener información de éstas, o bien, mejorar su calidad.
+14. Realidad Virtual: Es la simulación de un entorno virtual en 3D generado por computadora, que intenta hacer experimentar al usuario una sensación de estar inmerso en él. Aunque puede ser proyectado simplemente en la pantalla de un dispositivo como un monitor, se suelen utilizar otras tecnologías tales como cascos de realidad virtual, guantes, o incluso diseñar espacios, para intensificar las sensación de realidad y que además le permita una mejor interacción con el mundo virtual, creando imágenes realistas, sonidos y otras sensaciones.
+15. Realidad Aumentada: Es la visualización de un espacio real en donde a los objetos tangibles de éste se les añade información gráfica generada por computadora, es decir, elementos virtuales son agregados al mundo real, cubriendo total o parcialmente a objetos del entorno, y permitiéndole al usuario interactuar en tiempo real dentro de este espacio mixto.
+
+# 1.3. Aspectos matemáticos de la graficación.
+
+"le invito a contemplar alguna de las imágenes que más abajo aparecen…
+
+<img width="320" height="198" alt="image" src="https://github.com/user-attachments/assets/daabccbf-ba8d-41b1-8ac0-2c6bfb350ae2" />
+<img width="320" height="262" alt="image" src="https://github.com/user-attachments/assets/7b07b1fd-da4e-43ab-9f8f-31a2edd315b9" />
+
+Es fácilmente apreciable, además de su indudable belleza, su semejanza con estructuras naturales con las habitualmente nos tropezamos. Sin embargo, todas ellas son producto de “matemáticas experimentales” (que no aplicadas), o dicho de otro modo, han sido confeccionadas sin salir del laboratorio matemático cuyo material es, esencialmente, un ordenador y algunos conceptos
+matemáticos sabiamente utilizados."
+
+La geometría fractal ocupa en cierta medida este vacío y puede usarse para diseñar fielmente
+desde la intrincada silueta de una simple hoja hasta la evolución del árbol.
+Primero para introducirnos al el mundo de los Fractales, lo primero que hay que contar son las palabras que dan inicio al libro "Fractals Everywhere" ("Fractales en todos Lados") de Michael F. Barnsley, uno de los pioneros y más importantes divulgadores e investigadores del tema:
+
+"La geometría Fractal cambiará a fondo su visión de las cosas. Seguir leyendo es peligroso. Se arriesga a perder definitivamente la imagen inofensiva que tiene de nubes, bosques, galaxias, hojas, plumas, flores, rocas, montañas, tapices, y de muchas otras cosas. Jamás volverá a recuperar las interpretaciones de todos estos objetos que hasta ahora le eran familiares."
+
+Ésta geometria tiene su origen en el concepto de proceso iterativo introducido hace ya 300 años por Isaac Newton y Gottfried Leibniz. De forma esquemática, un proceso iterativo consta de: una unidad de entrada compuesta por un dato inicial. Esta unidad de entrada alimenta la unidad de proceso, cerebro pensante del proceso iterativo, que manipula la información recibida y produce un nuevo dato que constituye la unidad de salida. Este nuevo dato será posteriormente utilizado por la unidad de entrada para volver a alimentar la unidad de proceso, y así sucesivamente.
+
+<img width="620" height="450" alt="image" src="https://github.com/user-attachments/assets/cbfa29f6-b878-4a2b-b705-91884f060953" />
+
+Observamos además que después de un número suficiente de iteraciones el resultado obtenido es prácticamente el mismo, que por cierto responde a un animal matemático con nombre propio, el triángulo de Sierpinski.
+También es tan sorprendente como fácilmente comprobable que, tomando una imagen inicial distinta, el resultado “final” es el mismo.
+
+Un grupo de matemáticos comenzó a darse cuenta que en la naturaleza se daba muy seguido el fenómeno de irregularidades y que no eran excepciones como se suponía. Los primeros que comenzaron a demostrar teóricamente esta problemática fueron Cantor (con su famoso y casi místico conjunto de Cantor – Figura 2) y Peano. Hasta llegar a los años de 1880 con Poincaré, al que se lo conoce como el padre de la Teoría del Caos.
+
+<img width="232" height="153" alt="image" src="https://github.com/user-attachments/assets/b6b134ea-be6e-40f4-b691-af20c38980d1" />
+
+Segun lo antes mencionado . . .
+¿Que es Geometria Fractal?
+
+<img width="250" height="247" alt="image" src="https://github.com/user-attachments/assets/3b257261-f1d8-4ed1-ac84-282b15ed27da" />
+
+Geometría Fractal es geometría que no distingue entre conjunto matemático y objeto natural. Este nuevo paradigma engulle paradigmas anteriores proyectando un modelo que inagura una nueva zona o región de lo real.
+
+#1.4. Modelos del color: RBG, CMY, HSV y HSL.
+
+## ¿Qué es un modelo de color?
+Un modelo de color establece un conjunto de colores primarios a partir de los que, mediante mezclas, se pueden obtener otros colores hasta cubrir todo el espectro visible, además del propio blanco, negro y grises, y aún más. Por ejemplo, hay colores, como el marrón o el magenta, que no están presentes en el espectro visible, y es nuestro cerebro el que lo interpreta a partir de la combinación de ondas con diferentes longitudes.
+
+Los modelos de color más comunes son RGB (utilizado en monitores) y CMYK (utilizado para impresión), que veremos más adelante.
+
+### Modelos aditivos y sustractivos
+
+Hay dos tipos de modelos de color, los aditivos y los sustractivos. Un modelo aditivo se basa en la adición o mezcla de los colores básicos como forma para obtener el blanco.
+
+Un modelo sustractivo se basa en la mezcla de los colores primarios de dicho modelo para «sustraer la luz», es decir, para obtener el negro, que como comentábamos en el artículo de la luz, es la ausencia de luz.
+
+Si recordamos del primer artículo, cuando empleamos el término «color» en realidad nos referimos al «matiz» o «croma». Y junto a los colores también tenemos los tres casos especiales: el blanco, el negro y los grises.
+
+### Modelo RGB
+Volviendo a los modelos de color más habituales en fotografía, el modelo RGB define como colores primarios el rojo, el verde y el azul. La combinación de los tres genera blanco. La ausencia de los tres genera negro. Las diferentes mezclas entre ellos representarían toda la gama de color. De nuevo, los grises se representarían con diferentes intensidades de cada color, pero siempre los tres con el mismo valor.
+
+El modelo RBG se utiliza cuando se representa color mediante haces de luz (pantallas o monitores). Un pixel en un monitor se representaría mediante tres subpíxeles o células: una roja, una verde y una azul, correspondiendo cada una a un LED o diodo emisor de luz del respectivo color.
+
+Si los tres diodos están apagados, obtendríamos el negro. Si están encendidos a diferentes intensidades, obtendríamos colores, si están todos encendidos con la misma intensidad y al máximo, tendríamos el blanco, y si la intensidad es menor pero igual en los tres diodos, obtendríamos grises.
+
+### Modelo CMYK
+Es un modelo sustractivo y se utiliza en impresión a partir de pigmentos de tres colores básicos: C – cian, M – magenta y Y – amarillo. La K viene del negro, ya que la combinación de los tres anteriores produce un negro poco puro, de ahí que se añada al modelo un pigmento negro puro. Al contrario que en RGB, donde el negro es la ausencia de luz, en CMYK el blanco se representa aquí como ausencia de pigmentos.
+
+Los colores intermedios se producen a partir de la mezcla en distintas proporciones de los pigmentos base.
+
+Hay una relación entre los modelos RGB y CMYK, ya que con la mezcla a igual parte de cada uno de los colores básicos de un modelo obtenemos los primarios del otro.
+
+En RGB (rojo, verde, azul):
+1. Rojo y verde en iguales proporciones: obtenemos amarillo – Y de CMYK
+2. Rojo y azul en iguales proporciones: obtenemos el magenta – M
+3. Verde y azul en iguales proporciones: obtenemos el cian – C
+
+En CMYK (cian, magenta, amarillo):
+1. Cian y magenta en igual proporción: obtenemos el azul
+2. Cian y amarillo en igual proporción: obtenemos el verde
+3. Magenta y amarillo en igual proporción: obtenemos el rojo
+
+### Modelo HSV y HSL
+Estos modelos incluyen otros dos parámetros adicionales al matiz o croma para obtener el color, que son la saturación (en ambos) y el valor (en HSV) o la luminosidad o tono (en HSL). De ahí sus siglas: HSL (H – hue o matiz, S – saturation o saturación, L – luminosity o luminosidad/tono), HSV (idem excepto V de value o valor).
+
+La diferencia entre HSV y HSL es que en HSV la saturación va del color puro al blanco, y en HSL la saturación va del color puro al gris medio, y el tono, en HSV va desde el negro al color, y en HSL va desde el negro al blanco. De ahí que HSL sea el que se utiliza más comúnmente en fotografía.
+
+Lightroom, que se basa en HSL, dispone de controles para alterar H – matiz, S – saturación y L – Tono para los siguientes colores: rojo, naranja, amarillo, verde, cian, azul, violeta y magenta.
+
+Siguiendo con Lightroom, éste nos permite fijar la saturación entre gris y color puro para esos 8 colores. Respecto al matiz, nos permite virar los 8 colores a los adyacentes que comentaba en el artículo de luz y color, por ejemplo, para el rojo, desde magenta a naranja.
+
+Por último, respecto al tono, Lightroom nos permite oscurecer cada uno de esos 8 colores hasta el negro, o bien aclararlo hasta llegar al blanco.
+
+Si utilizásemos un programa basado en HSV, el control del matiz sería similar, el control de la saturación nos permitiría llevar un matiz dado a su expresión más pura, o bajar su saturación hasta llegar el blanco, raro, ¿verdad?. Y respecto al tono, nos permitiría para un matiz dado, bajar su tono hasta el negro o subirlo hasta el color puro, también raro, ¿verdad?.
+
+(En este apartado puedes colocar un tutorial de como iluminar un cubo y sus caras, en blender)
+
+# 1.5. Representación y trazo de líneas y polígonos.
