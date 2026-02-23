@@ -60,3 +60,69 @@ Un joven programador del MIT llamado Steve Russell crea Spacewar. Fue programado
 ### 1962: Bresenham's line algorithm
 <img width="300" height="429" alt="image" src="https://github.com/user-attachments/assets/393cb394-3c8f-4b59-8e78-abfdccd958b7" />
 
+Jack Elton Bresenham mientras estaba en el MIT desarrolló un algoritmo para determinar cuáles son los puntos en una matriz bidimensional que deben ser pintados para formar lo más cercano posible a una línea recta entre 2 puntos dados. Este algoritmo es uno de los primeros descubiertos en gráficos por computadora (Computer Graphics).
+
+### 1963: Sketchpad
+<img width="220" height="176" alt="image" src="https://github.com/user-attachments/assets/c7cc0f7a-9dda-4158-9b89-6f94f9bee6c1" />
+
+Ivan Sutherland diseña el programa Sketchpad como parte de su tesis doctoral en el MIT. Sketchpad fue el primer programa que permitía la manipulación directa de objetos gráficos y también es considerado el padre de los programas CAD actuales.
+Con ayuda de un lápiz óptico el usuario podía dibujar directamente sobre la pantalla, seleccionar elementos gráficos para modificarlos y mover a través de la pantalla los elementos seleccionados. El programa ofrecía botones con diferentes funciones que podían ser utilizadas por el usuario al presionar los botones con el lápiz óptico, por lo tanto, también fue precursor de la interfaz gráfica de usuario (GUI). Además, Sketchpad introdujo el concepto de "zoom".
+
+### 1963: Primer mouse
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2a8698d1-ed34-4f1b-ac97-a56af5b2a430" />
+
+A Doug Engelbart se le ocurrió la idea básica para el primer "mouse" en 1961 mientras estaba en una conferencia sobre gráficos de computadora. En 1963 gracias a los resultados de su investigación "Augmenting Human Intellect: A Conceptual Framework" recibe un pequeño financiamiento de ARPA con el cuál forma un pequeño equipo para estudiar y obtener datos sobre la eficiencia de diferentes dispositivos de la época que permitían usar un cursor en pantalla. Entre dichos dispositivos se encontraba un prototipo creado por el ingeniero Bill English: un dispositivo de mano con ruedas perpendiculares montadas en un bloque de madera con un botón en la parte superior. Este fue el primer mouse.
+
+### 1967: Parche de Coons
+<img width="400" height="266" alt="image" src="https://github.com/user-attachments/assets/4e725854-cfbf-4164-8c49-14c60ba80300" />
+
+En junio de 1967, Steven Coons publica "Surfaces for Computer-aided Design of Space Forms". En este trabajo, Steven muestra una forma matemática de describir superficies a través de un objeto conocido como "Coons Patch". Este trabajo fue el antecesor de técnicas más modernas para describir superficies tales como: b-spline surfaces y NURB surfaces. Estas técnicas son utilizadas en la actualidad para representar curvas y superficies gráficamente en la computadora.
+
+## Década de los 70
+
+### 1971: Sombreado Gouraud
+<img width="386" height="384" alt="image" src="https://github.com/user-attachments/assets/bfe30c2b-1517-4549-8125-c9bdb13d9ed0" />
+
+Es una técnica usada en gráficos 3D que simula efectos de luz y color sobre superficies de objetos. Fue publicada por Henri Gouraud.
+
+### 1972: Pong
+<img width="351" height="480" alt="image" src="https://github.com/user-attachments/assets/4e4db5bc-0130-4a3a-ad41-1280bcdbb658" />
+
+Publicado por Atari y lanzado el 29 de noviembre de 1972, Pong se volvió el primer videojuego con éxito comercial.
+
+### 1973: Westworld
+<img width="314" height="480" alt="image" src="https://github.com/user-attachments/assets/4b6f9b07-54a6-4587-8bb2-c16244c5089d" />
+
+La película Westworld escrita y dirigida por Michael Crichton fue la primera en tener una secuencia de animación digital como parte de los efectos especiales. La secuencia fue creada por los artistas: John Whitney y Gary Demos.
+
+### 1974: Mapeo de texturas
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/abdeb3ca-32ee-49b9-ad42-106e80dd8a19" />
+
+Es un método para definir información de la superficie de un objeto gráfico en 3D. Un mapa de textura contiene información sobre la apariencia de la superficie de un modelo en 3D. La técnica original fue iniciada por Edwin Catmull.
+
+### 1975: Sombreado Phong
+<img width="400" height="173" alt="image" src="https://github.com/user-attachments/assets/41288076-1145-4a19-9603-82d56936cdd7" />
+
+El sombreado de Phong es un modelo empírico de iluminación local. Es una técnica de sombreado en objetos 3D. Fue desarrollado por Bui Tuong Phong y publicado en su tesis doctoral de 1975.
+
+### 1976: Futureworld
+<img width="252" height="396" alt="image" src="https://github.com/user-attachments/assets/c76eba29-ced5-4020-ba66-b452832dbecd" />
+
+La secuela directa de Westworld fue la primera película en utilizar animación 3D. La animación tridimensional fue utilizada únicamente para animar la cara de una mano. Cabe aclarar que este efecto no fue agregado a la película en postproducción como sucede en la actualidad, todavía falta tiempo para la aparición de estas técnicas.
+
+### 1977: Apple II
+<img width="400" height="266" alt="image" src="https://github.com/user-attachments/assets/ef72f4f6-d539-49ba-b8f8-ce1b6855b8ca" />
+
+Apple presenta la primera computadora personal con pantalla a color.
+
+### 1978: Mapeo de relieve
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/1f120b3a-7f91-4d96-b4ec-8969f8ccd2de" />
+
+El mapeo de relieve es una técnica en gráficos por computadora para hacer que una superficie renderizada parezca más realista. Fue introducido por James Blinn.
+
+### 1979: Ray tracing
+<img width="399" height="500" alt="image" src="https://github.com/user-attachments/assets/bf74dfe7-5c03-45df-8225-6118b86db95d" />
+
+John Turner Whitted presentó el ray tracing en su trabajo: "An improved illumination model for shaded display". Su algoritmo demostró ser una solución práctica para definir una iluminación global en gráficos por computadora.
+
+## Década de los 80
