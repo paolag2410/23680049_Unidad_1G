@@ -321,3 +321,9 @@ Si utilizásemos un programa basado en HSV, el control del matiz sería similar,
 (En este apartado puedes colocar un tutorial de como iluminar un cubo y sus caras, en blender)
 
 # 1.5. Representación y trazo de líneas y polígonos.
+
+# Referencias
+Introducción a la graficación por computadora. (s. f.). https://proyectodescartes.org/iCartesiLibri/materiales_didacticos/GraficacionComputadora/index.html?page=12
+Sutori. (s. f.). Sutori. https://www.sutori.com/es/historia/historia-y-evolucion-de-la-graficacion-por-computadora--HWxiLPJRpHqkjwYoadxpmheZ
+Valdes, A. S. (2013, 14 septiembre). 1.4 Aspectos matemáticos de la Graficación (Geometría fractal). https://graficacionito.blogspot.com/2013/09/14-aspectos-matematicos-de-la.html
+Antonio. (2016, 19 junio). Modelos de color (RGB, CMYK, HSV/HSL). Antonio Herrera. https://ahenav.wordpress.com/2014/04/09/modelos-de-color/
