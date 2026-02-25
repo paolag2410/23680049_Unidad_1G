@@ -318,9 +318,88 @@ Por último, respecto al tono, Lightroom nos permite oscurecer cada uno de esos 
 
 Si utilizásemos un programa basado en HSV, el control del matiz sería similar, el control de la saturación nos permitiría llevar un matiz dado a su expresión más pura, o bajar su saturación hasta llegar el blanco, raro, ¿verdad?. Y respecto al tono, nos permitiría para un matiz dado, bajar su tono hasta el negro o subirlo hasta el color puro, también raro, ¿verdad?.
 
-(En este apartado puedes colocar un tutorial de como iluminar un cubo y sus caras, en blender)
+RGB (Red, Green, Blue)
+
+Modelo aditivo.
+Se utiliza en pantallas.
+Cada color es combinación de luz.
+
+Valores típicos:
+R (0–255)
+G (0–255)
+B (0–255)
+
+En Blender se aplicó mediante:
+````
+principled.inputs['Base Color'].default_value = (*color_rgb, 1.0)
+````
 
 # 1.5. Representación y trazo de líneas y polígonos.
+
+### Práctica 1: Polígono 2D
+Se generó un polígono mediante cálculo matemático de vértices.
+
+Código clave:
+````
+for i in range(lados):
+    angulo = 2 * math.pi * i / lados
+    x = radio * math.cos(angulo)
+    y = radio * math.sin(angulo)
+    vertices.append((x, y, 0))
+````
+Las aristas se conectan usando módulo:
+````
+aristas.append((i, (i + 1) % lados))
+````
+Esto permite cerrar la figura automáticamente.
+
+### Práctica 2: Flor de la Vida
+Se utilizó repetición circular cada 60°:
+````
+paso_angular = 60
+x = radio * math.cos(math.radians(angulo_actual))
+y = radio * math.sin(math.radians(angulo_actual))
+````
+Se aplicó un ciclo while para completar 360°.
+Esto demuestra uso de simetría radial.
+
+## Modelos de Color
+
+## 1.5.1 Formatos de Imagen
+
+| Formato | Característica |
+|---------|---------------|
+| JPG     | Compresión con pérdida |
+| PNG     | Sin pérdida, transparencia |
+| BMP     | Sin compresión |
+| TIFF    | Alta calidad profesional |
+
+1.6 Procesamiento de Mapas de Bits
+
+Un mapa de bits está compuesto por píxeles.
+
+Cada píxel contiene información RGB.
+
+Ejemplo:
+Una imagen 800x600 contiene 480,000 píxeles.
+
+Procesamiento común:
+1. Escalado
+2. Rotación
+3. Filtros
+4. Ajuste de brillo
+La manipulación matemática de píxeles es base del procesamiento digital de imágenes.
+
+# Conclusión General
+Durante la Unidad I se comprendió que la graficación por computadora no solo es diseño visual, sino una integración de:
+1. Matemáticas
+2. Programación
+3. Geometría
+4. Teoría del color
+5. Transformaciones espaciales
+Las prácticas realizadas (polígono, flor de la vida y escenario procedural) demostraron cómo las funciones matemáticas permiten generar estructuras complejas de forma automatizada.
+
+Se logró integrar teoría y práctica, consolidando los fundamentos esenciales para el estudio avanzado de la graficación por computadora.
 
 # Referencias
 Introducción a la graficación por computadora. (s. f.). https://proyectodescartes.org/iCartesiLibri/materiales_didacticos/GraficacionComputadora/index.html?page=12
